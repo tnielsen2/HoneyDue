@@ -1,5 +1,7 @@
-## Next.js App Router Course - Starter
+## HoneyDue
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+A project management tool for families. Made ideally for me.
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+This is a repo created for me to create a practical project, I can self-host on CloudFlare ZTNA and use it to manage
+my honey-do list with a digital presence.
+
